@@ -1,0 +1,346 @@
+.outer {
+    background-color: soft grey;
+    margin: 0;
+}
+.container {
+position: relative;
+width: 1810px;
+height: 4252px;
+background: #FFFFFF;
+border: 1 none;
+margin-left: 20%;
+}
+.image {
+    position: absolute;
+    height: 55px;
+    width: 50.06px;
+    top: 62px;
+    left: 251px;
+    
+}
+.name {
+position: absolute;
+width: 284px;
+height: 42px;
+left: 320px;
+top: 69px;
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 900;
+font-size: 36px;
+line-height: 42px;
+color: #445964;
+}
+.home {
+position: absolute;
+width: 51px;
+height: 23px;
+left: 811px;
+top: 78px;
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 500;
+font-size: 20px;
+line-height: 23px;
+color: #445964;
+}
+.sobre {
+position: absolute;
+width: 51px;
+height: 23px;
+left: 955px;
+top: 78px;
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 500;
+font-size: 20px;
+line-height: 23px;
+color: #445964;
+}
+.portfolio{
+    position: absolute;
+    width: 51px;
+    height: 23px;
+    left: 1098px;
+    top: 78px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 23px;
+    color:#445964;
+
+}
+.services {
+    position: absolute;
+    width: 51px;
+    height: 23px;
+    left: 1271px;
+    top: 78px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 23px;
+    color:#445964;
+
+}
+.resume {
+    position: absolute;
+    width: 51px;
+    height: 23px;
+    left: 1437px;
+    top: 78px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 23px;
+    color:#445964;
+
+}
+.contact {
+    position: absolute;
+    width: 51px;
+    height: 23px;
+    left: 1598px;
+    top: 78px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 23px;
+    color:#445964;
+    padding-right: 30%;
+}
+.first {
+    position: absolute;
+    width: 138px;
+    height: 28px;
+    top: 330px;
+    left: 251px;
+    font-family: 'Roboto';
+    font-weight: 500;
+    font-size: 24px;
+    line-height: 28.13px;
+    color: #445964;
+}
+.second {
+    position: absolute;
+    width: 545px;
+    height: 168px;
+    top: 310px;
+    left: 251px;
+    font-family: 'Roboto';
+    font-weight: 900;
+    font-size: 72px;
+    line-height: 84.38px;
+    color: #445964;
+}
+.third {
+    position: absolute;
+    width: 446px;
+    height: 28px;
+    top: 542px;
+    left: 251px;
+    font-family: 'Roboto';
+    font-weight: 500;
+    line-height: 28.13px;
+    color: #445964;
+}
+.btn {
+    position: absolute;
+    width: 310px;
+    height: 72px;
+    top: 700px;
+    left: 251px;
+    background-color: #263138;
+    border-radius: 20px;
+    border: 1px none;
+}
+.forth {
+    width: 241px;
+    height: 20px;
+    top: 719px;
+    left: 282px;
+    font-family: 'Roboto';
+    font-weight: 900;
+    font-size: 24px;
+    line-height: 28.13px;
+    color: #FFFFFF;
+    padding-left: 10%;
+   
+}
+.python {
+    position: absolute;
+    width: 705px;
+    height: 697px;
+    top: 289px;
+    left: 963px;
+}
+.about {
+    position: absolute;
+    width: 183px;
+    height: 207px;
+    top: 1135px;
+    left: 866px;
+}
+.firstName {
+position: absolute;
+width: 504px;
+height: 75px;
+left: 708px;
+top: 1357px;
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 900;
+font-size: 64px;
+line-height: 75px;
+color: #445964;
+}
+.secondName {
+position: absolute;
+width: 504px;
+height: 75px;
+left: 970px;
+top: 1357px;
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 900;
+font-size: 64px;
+line-height: 75px;
+color:#263138;
+}
+.description {
+    position: absolute;
+    width: 1032px;
+    height: 56px;
+    top: 1456px;
+    left: 444px;
+    font-family: 'Roboto';
+    font-weight: 500;
+    font-size: 24px;
+    line-height: 28.13px;
+    align-content: center;
+    color: #445964;
+}
+.hard {
+    position: absolute;
+    height: 75px;
+    width: 300px;
+    left: 802px;
+    top: 1620px;
+    font-family: 'Roboto';
+    font-weight: 900;
+    font-size: 64px;
+    line-height: 75px;
+    color: #263138;
+}
+.skills {
+    position: absolute;
+    height: 75px;
+    width: 300px;
+    left: 950px;
+    top: 1620px;
+    font-family: 'Roboto';
+    font-weight: 900;
+    font-size: 64px;
+    line-height: 75px;
+    color: #445964;
+}
+.pyt {
+    position: absolute;
+    width: 116px;
+    height: 42px;
+    top: 1757px;
+    left: 509px;
+    font-family: 'Roboto';
+    font-weight: 900;
+    font-size: 36px;
+    line-height: 42.19px;
+    color: #445964;
+}
+.htm {
+    position: absolute;
+    width: 116px;
+    height: 42px;
+    top: 1757px;
+    left: 779px;
+    font-family: 'Roboto';
+    font-weight: 900;
+    font-size: 36px;
+    line-height: 42.19px;
+    color: #445964;
+}
+.react {
+    position: absolute;
+    width: 116px;
+    height: 42px;
+    top: 1757px;
+    left: 1044px;
+    font-family: 'Roboto';
+    font-weight: 900;
+    font-size: 36px;
+    line-height: 42.19px;
+    color: #445964;
+}
+.cee {
+    position: absolute;
+    width: 116px;
+    height: 42px;
+    top: 1757px;
+    left: 1341px;
+    font-family: 'Roboto';
+    font-weight: 900;
+    font-size: 36px;
+    line-height: 42.19px;
+    color: #445964;
+}
+.js {
+    position: absolute;
+    width: 116px;
+    height: 42px;
+    top: 1926px;
+    left: 509px;
+    font-family: 'Roboto';
+    font-weight: 900;
+    font-size: 36px;
+    line-height: 42.19px;
+    color: #445964;
+}
+.styles {
+    position: absolute;
+    width: 116px;
+    height: 42px;
+    top: 1926px;
+    left: 794px;
+    font-family: 'Roboto';
+    font-weight: 900;
+    font-size: 36px;
+    line-height: 42.19px;
+    color: #445964;
+}
+.mys {
+    position: absolute;
+    width: 116px;
+    height: 42px;
+    top: 1926px;
+    left: 1032px;
+    font-family: 'Roboto';
+    font-weight: 900;
+    font-size: 36px;
+    line-height: 42.19px;
+    color: #445964;
+}
+.postgres {
+    position: absolute;
+    width: 116px;
+    height: 42px;
+    top: 1926px;
+    left: 1279px;
+    font-family: 'Roboto';
+    font-weight: 900;
+    font-size: 36px;
+    line-height: 42.19px;
+    color: #445964;
+}
